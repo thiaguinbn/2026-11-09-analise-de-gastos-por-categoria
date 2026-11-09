@@ -1,0 +1,17 @@
+data,categoria,descricao,valor
+2026-11-01,Alimentacao,Mercado,120.00
+2026-11-01,Transporte,Onibus,10.00
+2026-11-02,Estudos,Caderno,25.00
+2026-11-02,Lazer,Cinema,30.00
+2026-11-03,Alimentacao,Almoco,25.00
+2026-11-03,Transporte,Onibus,10.00
+2026-11-04,Alimentacao,Mercado,80.00
+2026-11-04,Estudos,Livro,60.00
+2026-11-05,Lazer,Lanche no passeio,20.00
+2026-11-05,Transporte,Aplicativo,25.00
+2026-11-06,Alimentacao,Almoco,25.00
+2026-11-06,Estudos,Impressao,15.00
+2026-11-07,Lazer,Ingresso,40.00
+2026-11-07,Alimentacao,Mercado,70.00
+2026-11-07,Transporte,Onibus,10.00
+2026-11-07,Estudos,Material escolar,20.00
